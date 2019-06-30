@@ -4,4 +4,4 @@ it encrypts just a data folder where it resides this virus,
 also this project it contains a decryption program for this virus
 # Screenshot 
 
-![](screenshot-gasa-ransomware-virus.png)
+![](screenshot gasa ransomware virus.png)
